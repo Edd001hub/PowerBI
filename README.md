@@ -7,7 +7,9 @@ Realización de un Dashboard para el área de Ventas con el fin de representar l
 
 ## Producto
 
-Con el apoyo de los documentos adjuntos se relaizaron las siguientes representaciones con ayuda de Power BI, lo relevante de la información fue las fechas de venta, número de clientes, los ingresos por estado y por producto, de esto se toma la primera representación que es la calidad de productos.
+Con el apoyo de los documentos adjuntos se relaizaron las siguientes representaciones con ayuda de Power BI, lo relevante de la información fue las fechas de venta, número de clientes, ganancias, los ingresos por estado y por producto, de esto se toma la primera representación que es la calidad de productos.
+
+
 
 ![clasificacion](https://github.com/user-attachments/assets/e0bd880b-82ed-49e2-bdc0-a9fd544b847e)
 
